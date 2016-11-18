@@ -49,3 +49,43 @@ On some of the communication channels (like the mailing lists) you can technical
 If you can publically share your files you can use a service like https://framadrop.org/
 
 If you want to keep the data in your "ownership" you can put on a webserver you own or on a service like Google drive and share the link with the person(s) who is helping you (and trust them not to further share the documents)
+
+## Technical details
+
+In most cases, you should concentrate on providing a good explanation of the issue you're facing. If technical details are needed to give an answer, you will be asked for them.
+
+There is one exception: if you're using a development version of Scribus (currently 1.5.3svn) you should mention it.
+
+### The Operating System
+
+If you're asked to provide your Operating System, we will be expecting one of the followingn answers:
+
+- Microsoft Windws
+- Mac OS X
+- Linux (Ubuntu, Debian, Fedora, Suse, Archlinux, ...)
+- Other (yes, there is more: FreeBsd, OS 2, Haiku, ...)
+
+### The Scribus version
+
+If we ask you which version you are using we expect one of the following answers:
+
+- Scribus 1.4.6 (the latest stable version)
+- Scribus 1.5.2
+- Scribus 1.5.3svn
+
+If you're using a different version, you might want to first update to one of those versions before asking your question or explain why you are using that version.
+
+The standard way for getting Scribus is
+
+- For Windwos by following the links on the [Get Scribus](https://www.scribus.net/downloads/stable-branch/) on the Scribus homepage or by installing a [Portable App](http://portableapps.com/apps/office/scribus_portable)
+- For Mac by following the links on the [Get Scribus](https://www.scribus.net/downloads/stable-branch/) on the Scribus homepage or by installing it from Homebrew
+- For Linux by installing the package provided by your distribution or from [Appimage](https://bintray.com/probono/AppImages/Scribus)
+- For self compiled version from the Scribus svn server or from the [Scribusproject mirror](https://github.com/scribusproject/scribus) on Github.
+
+If you got Scribus from a different place, you should mention it.
+
+### The fonts
+
+If you're asked to provide the fonts you're using, you should provide the font files themselves, not just their name. There are issues that exist only in specific versions of the fonts (and there are "very different" fonts that share almost the same name).
+
+If the font is not free, you should provide it in a way that does not make them public (as an example, by sharing a short living link through private messages).
