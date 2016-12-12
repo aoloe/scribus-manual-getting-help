@@ -92,15 +92,15 @@ If the font is not free, you should provide it in a way that does not make them 
 
 ## Languages
 
-There are a few non-english speaking communities where you can ask questions about Scribus. Few of them are really lively, still in some you can get high quality answers.
+There are a few non-english speaking communities where you can ask questions about Scribus. Few of them are really lively, still in some of them you can get high quality answers (see below for a list).
 
-On the other hand all the international communities are mainly english speaking. But the fact that you don't feel comfortable enough in english, should not stop you from asking questions.
+As so often, the international communities are mainly english speaking. But differently to many similar places, in the Scribus communities, all languages are welcome: the fact that you don't feel comfortable enough in English, should not stop you from asking questions.
 
-In such cases, the best thing is to try to provide a summary of your question in english and then ask your question in your own language.
+When asking questions in your language (assuming it's not English...), the best thing is to try to provide a short summary of your question in English (even automatically translated from an online service) and then ask your question in your own language.
 
-If somebody things that the summary is not good enough she will eventually provide a better translation...
+We have many participants from all over the world and there are good chances that you will get a reply in your language or that somebody will be able to understand enough of your question and provide you an answer in english.
 
-You will get answers in english (which you can run through an online translator) and/or in you language.
+Also, if somebody thinks that the summary is not good enough, she will eventually provide a better and more complete translation...
 
 Here is a list of well known places where you're welcome to ask questions about Scribus
 
