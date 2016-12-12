@@ -89,3 +89,22 @@ If you got Scribus from a different place, you should mention it.
 If you're asked to provide the fonts you're using, you should provide the font files themselves, not just their name. There are issues that exist only in specific versions of the fonts (and there are "very different" fonts that share almost the same name).
 
 If the font is not free, you should provide it in a way that does not make them public (as an example, by sharing a short living link through private messages).
+
+## Languages
+
+There are a few non-english speaking communities where you can ask questions about Scribus. Few of them are really lively, still in some you can get high quality answers.
+
+On the other hand all the international communities are mainly english speaking. But the fact that you don't feel comfortable enough in english, should not stop you from asking questions.
+
+In such cases, the best thing is to try to provide a summary of your question in english and then ask your question in your own language.
+
+If somebody things that the summary is not good enough she will eventually provide a better translation...
+
+You will get answers in english (which you can run through an online translator) and/or in you language.
+
+Here is a list of well known places where you're welcome to ask questions about Scribus
+
+- German:
+  - https://scribus-user.de
+- French:
+  - http://www.linuxgraphic.org/forums/viewforum.php?f=20
