@@ -5,7 +5,7 @@
 - the freenode irc channel
 - the forums
 - http://graphicdesign.stackexchange.com (tag #scribus)
-- vector
+- riot.im
 - gitter.im
 - facebook
 - google+
@@ -14,6 +14,14 @@
 TODO:
 - add the links
 - is there more?
+
+## Describing your issue
+
+- Issues with text
+  - Most of the time, sharing a .sla that shows the issue is enough.
+  - If you have issue with the exact positioning of the text, you might need to also share the font you're using.
+- Issues with images
+  - You will need to 
 
 ## How to prepare test files
 
@@ -89,6 +97,17 @@ If you got Scribus from a different place, you should mention it.
 If you're asked to provide the fonts you're using, you should provide the font files themselves, not just their name. There are issues that exist only in specific versions of the fonts (and there are "very different" fonts that share almost the same name).
 
 If the font is not free, you should provide it in a way that does not make them public (as an example, by sharing a short living link through private messages).
+
+#### How to share a font file
+
+am einfachsten geht es so:
+
+- finde eine freie schrift (wenn möglich in gute qualität) die (noch nicht) auf dein computer installiert ist (mögliche quellen sind google font oder https://www.fontsquirrel.com/)
+- kopiere sie in einen neuen beliebigen ordner (mit dem namen "fonts" oder "Schriftarten")
+- starte scribus ohne ein dokument zu öffnen
+- in den eigenschaften (preferences) füge den neuen ordner zu denen wo scribus sucht seine schriften.
+
+jetzt hast du eine schrift die du einfach in scribus für demo-dateien gebrauchen kannst du dann teilen (du musst du auch nicht wieder hochladen... einfach den genaue link nennen, wo du sie heruntergeladen hast)
 
 ## Languages
 
